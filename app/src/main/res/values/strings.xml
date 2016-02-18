@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">lesson1</string>
+    <string name="app_name">BusinessCard</string>
+    <string name="birthday">Date of birth</string>
+    <string name="sex">Sex</string>
+    <string name="sex_value">Female</string>
+    <string name="profession">Profession</string>
+    <string name="profession_value">Programmer</string>
+    <string name="language">Languages</string>
+    <string name="language_value">Russian, English</string>
+    <string name="prog_language">Programming languages</string>
+    <string name="prog_language_value">C/C++, Java</string>
+    <string name="name">Paina Liubov</string>
+    <string name="phone">8–911–984–39–51</string>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Визитная карточка</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="sex">Пол</string>
+    <string name="sex_value">Женский</string>
+    <string name="profession">Профессия</string>
+    <string name="profession_value">Программист-разработчик</string>
+    <string name="language">Язык</string>
+    <string name="language_value">Русский, Английский</string>
+    <string name="prog_language">Языки программирования</string>
+    <string name="prog_language_value">C/C++, Java</string>
+    <string name="name">Паина Любовь Владимировна</string>
+    <string name="phone">8–911–984–39–51</string>
+</resources>
